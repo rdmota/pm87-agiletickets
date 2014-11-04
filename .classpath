@@ -66,5 +66,6 @@
 	<classpathentry kind="lib" path="lib/test/xalan-2.7.1.jar"/>
 	<classpathentry kind="lib" path="lib/test/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="lib/test/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/default/jstl-1.2.jar"/>
 	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
 </classpath>
