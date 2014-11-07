@@ -38,6 +38,7 @@
 	<classpathentry kind="lib" path="lib/test/xalan-2.7.1.jar"/>
 	<classpathentry kind="lib" path="lib/test/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="lib/test/xml-apis-1.4.01.jar"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="lib/test/commons-codec-1.9.jar"/>
 	<classpathentry kind="lib" path="lib/test/commons-io-2.4.jar"/>
 	<classpathentry kind="lib" path="lib/test/commons-lang3-3.3.2.jar"/>
@@ -65,5 +66,8 @@
 	<classpathentry kind="lib" path="lib/test/selenium-safari-driver-2.44.0.jar"/>
 	<classpathentry kind="lib" path="lib/test/selenium-server-2.44.0.jar"/>
 	<classpathentry kind="lib" path="lib/test/selenium-support-2.44.0.jar"/>
+=======
+	<classpathentry kind="lib" path="lib/default/jstl-1.2.jar"/>
+>>>>>>> refatoramento 1
 	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
 </classpath>
