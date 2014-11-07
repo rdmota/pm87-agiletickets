@@ -10,6 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import br.com.caelum.agiletickets.acceptance.page.EstabelecimentosPage;
 
+@Ignore
 public class EstabelecimentoTest {
 
 	public static String BASE_URL = "http://localhost:8080";
